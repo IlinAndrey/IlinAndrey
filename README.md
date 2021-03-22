@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IlinAndrey
 - 👀 JAVA second term - https://github.com/IlinAndrey/JavaSem2
 - 🌱 PYTHON - https://github.com/IlinAndrey/pythonProject
-good luck :)
+- good luck :)
 
 <!---
 IlinAndrey/IlinAndrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

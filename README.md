@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IlinAndrey
 - 👀 JAVA second term - https://github.com/IlinAndrey/JavaSem2
 - 🌱 PYTHON - https://github.com/IlinAndrey/pythonProject
+- 😃 My course work - https://github.com/IlinAndrey/CourseWorkBookStore
 - good luck :)
 
 <!---

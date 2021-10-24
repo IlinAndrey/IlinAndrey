@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IlinAndrey
 - 👀 JAVA third term - https://github.com/IlinAndrey/AKSP
 - 🌱 PYTHON - https://github.com/IlinAndrey/pythonProject
-- 😃 My course work - https://github.com/IlinAndrey/chat
+- 😃 My course work - https://github.com/IlinAndrey/Coursework-chat
 - good luck :)
 
 <!---
